@@ -50,7 +50,7 @@ Coming Soon 🚀
 
 # Architecture
 
-This project uses our very own `STNGS` stack.
+This project uses our very own `STNGS` stack 🐝.
 
 - Supabase
 - Typescript
