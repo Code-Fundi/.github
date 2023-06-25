@@ -18,6 +18,10 @@
 <br />
 </p>
 
+#
+<p align="center">
+  <img width="75%" src="https://raw.githubusercontent.com/Code-Fundi/.github/main/media/banner.png" alt="Banner">
+</p>
 
 #
 
@@ -29,8 +33,7 @@ From interactive code generation and explanation to debugging and test generatio
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Code-Fundi/.github/main/media/vscode.png" alt="App screenshot">
-  <br />
+  <img src="https://raw.githubusercontent.com/Code-Fundi/.github/main/media/vscode.png" alt="Screenshot">
   <br />
 </p>
 
@@ -38,12 +41,10 @@ From interactive code generation and explanation to debugging and test generatio
 
 Coming Soon 🚀
 <br />
-<br />
 
 # Documentation
 
 - [Code Fundi Docs](https://code-fundi-docs.vercel.app/)
-<br />
 <br />
 
 # Architecture
@@ -55,7 +56,6 @@ This project uses our very own `STNGS` stack.
 - NextJS
 - GraphQL
 - Svelte 
-<br />
 <br />
 
 # Why LLM?
