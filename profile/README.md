@@ -1,6 +1,12 @@
 <p align="center">
+  <img width="80%" src="https://raw.githubusercontent.com/Code-Fundi/.github/main/media/banner.png" alt="Banner">
+</p>
+
+#
+
+<p align="center">
  <img width="150px" src="https://raw.githubusercontent.com/Code-Fundi/.github/main/media/gradient-bg-logo.png" align="center" alt="Code Fundi" />
- <h2 align="center"><b>Code Fundi</b></h2>
+ <h1 align="center"><b>Code Fundi</b></h1>
  <p align="center">An AI assistant that helps you write better code faster.</p>
  </br>
 </p>
@@ -16,11 +22,6 @@
     <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white" />
   </a>
 <br />
-</p>
-
-#
-<p align="center">
-  <img width="75%" src="https://raw.githubusercontent.com/Code-Fundi/.github/main/media/banner.png" alt="Banner">
 </p>
 
 #
