@@ -46,25 +46,3 @@ Coming Soon 🚀
 # Documentation
 
 - [Code Fundi Docs](https://code-fundi-docs.vercel.app/)
-<br />
-
-# Architecture
-
-This project uses our very own `STNGS` stack 🐝.
-
-- Supabase
-- Typescript
-- NextJS
-- GraphQL
-- Svelte 
-<br />
-
-# Why LLM?
-
-Since LLMs (Large Language Models) perform well at a wide variety of tasks, it allows them to excel at a different things simultaneously.
-
-One of those tasks is predicting the next word in a sentence which allows them to capture the syntax and semantics of human language. This offers users who interact with these models a seamless experience as they are able to use natural language and ask open ended questions.
-
-Finally, LLMs have shown impressive general knowledge about the world and are able to remember a lot of facts through training. This lets users gain real world information whenever they interact with our models.
-
-This also provides us with plenty of room for growth as we continue training our models to create a better assistant that helps developers everywhere improve their workflows.
