@@ -11,4 +11,4 @@
 
 ## Documentation
 
-- [Code Fundi Docs](https://code-fundi-docs.vercel.app/)
+- [Code Fundi Docs](https://docs.codefundi.app/)
